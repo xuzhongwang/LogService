@@ -1,0 +1,6 @@
+Core.LoggingDemo/obj/
+packages/
+Utility.Logging/obj/
+Utility.Logging/bin/
+Core.LoggingDemoTests/bin/
+Core.LoggingDemoTests/obj/
